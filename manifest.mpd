@@ -956,7 +956,7 @@
     
     <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
     <Representation id="textstream_ms_1" bandwidth="256">
-        <BaseURL>https://pub-81b77df953b740859a9dbd0f1f39db78.r2.dev/akhanda2/</BaseURL>
+        <BaseURL>https://cakisi4153.github.io/nobetij795/</BaseURL>
         <SegmentList>
             <SegmentURL media="subtitles_msa.ttml"/>
         </SegmentList>
@@ -972,7 +972,7 @@
     
     <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
     <Representation id="textstream_en_1" bandwidth="256">
-        <BaseURL>https://pub-81b77df953b740859a9dbd0f1f39db78.r2.dev/akhanda2/</BaseURL>
+        <BaseURL>https://cakisi4153.github.io/nobetij795/</BaseURL>
         <SegmentList>
             <SegmentURL media="subtitles_eng.ttml"/>
         </SegmentList>
